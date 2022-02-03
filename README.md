@@ -1,1 +1,1 @@
-# Jogo_da_adivinhacao_Python
+Jogo simples e divertido de adivinhação
